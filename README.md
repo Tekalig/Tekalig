@@ -1,58 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tekalign Mesfin
 =======================================================================================================================================
 
-Full Stack Developer and Data Scientist
----------------------------------------
+<h1 align="center">Full Stack Developer and Data Scientist</h1>
 
-```
-class FullStackDeveloper:
-    def __init__(self):
-        self.frontend = ["React", "Tailwind CSS", "JavaScript"]
-        self.backend = ["Node.js", "Express.js", "Django", "FastAPI"]
-        self.databases = ["PostgreSQL", "MongoDB", "Deno KV"]
-        self.devops = ["AWS", "GCP", "Docker", "Kubernetes", "CI/CD"]
+![full stack](https://github.com/user-attachments/assets/4bb0c7c7-2251-4de6-8d23-bf1367196480)
 
-    def build_web_app(self):
-        return "Developing scalable and secure web applications."
+![data-sce](https://github.com/user-attachments/assets/b9c5f5c8-8927-4e48-a18b-348bf5bf68f9)
 
-    def manage_database(self):
-        return "Designing and optimizing databases for performance."
+![hire-me](https://github.com/user-attachments/assets/423218d3-06d8-4947-8b0e-cf0850c66d99)
 
-    def deploy_application(self):
-        return "Deploying applications with cloud and containerization."
-
-class DataScientist:
-    def __init__(self):
-        self.skills = ["Data Preprocessing", "Feature Engineering", "Machine Learning", "Time Series Analysis"]
-        self.libraries = ["Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "Matplotlib"]
-
-    def analyze_data(self):
-        return "Performing data analysis and statistical modeling."
-
-    def build_model(self):
-        return "Developing predictive models for decision-making."
-
-    def visualize_insights(self):
-        return "Creating visualizations to communicate data insights."
-
-class DeveloperDataScientist(FullStackDeveloper, DataScientist):
-    def __init__(self):
-        FullStackDeveloper.__init__(self)
-        DataScientist.__init__(self)
-
-    def work(self):
-        return {
-            "Web Development": self.build_web_app(),
-            "Database Management": self.manage_database(),
-            "Deployment": self.deploy_application(),
-            "Data Analysis": self.analyze_data(),
-            "Model Building": self.build_model(),
-            "Visualization": self.visualize_insights(),
-        }
-
-me = DeveloperDataScientist()
-print(me.work())
-  ```
 
 *   🌍  I'm based in Ethiopia
 *   🖥️  See my portfolio at [MyPortfolio](http://tekalign.mesfin.com)
