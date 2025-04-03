@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tekalign Mesfin
 =======================================================================================================================================
 
-<h1 align="center">Full Stack Developer and Data Scientist</h1>
+<h1>Full Stack Developer and Data Scientist</h1>
 
 ![full stack](https://github.com/user-attachments/assets/4bb0c7c7-2251-4de6-8d23-bf1367196480)
 
