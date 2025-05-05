@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 *   🌍  I'm based in Ethiopia
-*   🖥️  See my portfolio at [MyPortfolio](http://tekalign.mesfin.com)
+*   🖥️  See my portfolio at [MyPortfolio](https://tekalign-mesfin.netlify.app/)
 *   ✉️  You can contact me at [tekahazi06@gmail.com](mailto:tekahazi06@gmail.com)
 *   🚀  I'm currently working on [BookStore](http://bookstore.com)
 *   🧠  I'm learning ML, Micro-Service, Django, FastApi
