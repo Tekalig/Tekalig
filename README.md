@@ -3,11 +3,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h1>Full Stack Developer and Data Scientist</h1>
 
-![full stack](https://github.com/user-attachments/assets/4bb0c7c7-2251-4de6-8d23-bf1367196480)
+<div align="center">
 
-![data-sce](https://github.com/user-attachments/assets/b9c5f5c8-8927-4e48-a18b-348bf5bf68f9)
+<!-- Full Stack Developer Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/fullstack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/fullstack-light.svg">
+  <img alt="Full Stack Developer" src="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/fullstack-light.svg">
+</picture>
 
-![hire-me](https://github.com/user-attachments/assets/423218d3-06d8-4947-8b0e-cf0850c66d99)
+<!-- Data Scientist Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/datascience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/datascience-light.svg">
+  <img alt="Data Scientist" src="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/datascience-light.svg">
+</picture>
+
+<!-- Hire Me Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/hireme-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/hireme-light.svg">
+  <img alt="Hire Me" src="https://raw.githubusercontent.com/Tekalig/Tekalig/main/assets/hireme-light.svg">
+</picture>
+
+</div>
 
 
 *   🌍  I'm based in Ethiopia
