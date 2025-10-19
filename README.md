@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tekalign Mesfin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Tekalign Mesfin
 =======================================================================================================================================
-
-<h1>Full Stack Developer and Data Scientist</h1>
 
 <div align="center">
 
@@ -27,16 +25,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </picture>
 
 </div>
+<br>
 
-
-*   🌍  I'm based in Ethiopia
-*   🖥️  See my portfolio at [MyPortfolio](https://tekalign-mesfin.netlify.app/)
-*   ✉️  You can contact me at [tekahazi06@gmail.com](mailto:tekahazi06@gmail.com)
-*   🚀  I'm currently working on [BookStore](http://bookstore.com)
-*   🧠  I'm learning ML, Micro-Service, Django, FastApi
-*   🤝  I'm open to collaborating on School Project
-*   ⚡  "I'm secretly a coder... but don't tell anyone! If this gets out, my bugs might start debugging me instead!" 😆💻
-
+🌍  I'm based in Ethiopia <br>
+🖥️  See my portfolio at [MyPortfolio](https://tekalign-mesfin.netlify.app/)<br>
+✉️  You can contact me at [tekahazi06@gmail.com](mailto:tekahazi06@gmail.com)<br>
+🚀  I'm currently working on [BookStore](http://bookstore.com)<br>
+🧠  I'm learning ML, Micro-Service, Django, FastAPI<br>
+🤝  I'm open to collaborating on a School Project<br>
+⚡  "I'm secretly a coder... but don't tell anyone! If this gets out, my bugs might start debugging me instead!" 😆💻<br>
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tekalig&label=Profile%20views&color=0e75b6&style=flat" alt="tekalig" />
 </p>
