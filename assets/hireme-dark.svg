@@ -1,0 +1,77 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#134e5e;stop-opacity:1">
+        <animate attributeName="stop-color" values="#134e5e;#71b280;#0f4c75;#134e5e" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#71b280;stop-opacity:1">
+        <animate attributeName="stop-color" values="#71b280;#0f4c75;#134e5e;#71b280" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <filter id="glow3-dark">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background with animated gradient -->
+  <rect width="800" height="150" fill="url(#grad3-dark)" rx="15"/>
+  
+  <!-- Animated scan line effect (TV-style) -->
+  <rect width="800" height="3" fill="rgba(0,242,96,0.3)">
+    <animate attributeName="y" values="-3;150;-3" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Emoji Icon with animation -->
+  <text x="200" y="70" font-size="48">
+    💼
+    <animate attributeName="y" values="70;65;70" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Main Title with glow effect -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#00F260" text-anchor="middle" filter="url(#glow3-dark)">
+    Open to Opportunities
+    <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Call to action -->
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="20" fill="#00F260" text-anchor="middle">
+    Let's Build Something Amazing Together!
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Contact info with pulse effect -->
+  <g transform="translate(250, 120)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" fill="#00F260">
+      📧 tekahazi06@gmail.com
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- Animated hire badge -->
+  <circle cx="600" cy="70" r="20" fill="rgba(0,242,96,0.2)" stroke="#00F260" stroke-width="2">
+    <animate attributeName="r" values="20;25;20" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="75" font-family="Arial, sans-serif" font-size="20" fill="#00F260" text-anchor="middle">✓</text>
+  
+  <!-- Decorative particles -->
+  <circle cx="50" cy="30" r="3" fill="rgba(0,242,96,0.6)">
+    <animate attributeName="cy" values="30;20;30" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="120" r="3" fill="rgba(0,242,96,0.6)">
+    <animate attributeName="cy" values="120;110;120" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="100" r="2" fill="rgba(0,242,96,0.5)">
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="40" r="2" fill="rgba(0,242,96,0.5)">
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
