@@ -18,7 +18,7 @@
 
 I'm a passionate **Full Stack Developer** based in 🇪🇹 Ethiopia, with a growing interest in **Machine Learning** and **Data Science**. I enjoy building scalable web applications and exploring the intersection of software engineering and AI.
 
-- 🔭 Currently working on **[devai-chat](https://github.com/Tekalig/devai-chat)** — an AI chat app for coding help, debugging support, and developer workflow assistance
+- 🔭 Currently working on **[devai-chat](https://github.com/Tekalig/devai-chat)** — an AI-powered chat assistant for developers
 - 🌱 Actively learning **Machine Learning**, **Microservices**, **Django**, and **FastAPI**
 - 🤝 Open to collaborating on **school and open-source projects**
 - 📬 Reach me at **tekahazi06@gmail.com**
