@@ -18,10 +18,25 @@
 
 I'm a passionate **Full Stack Developer** based in 🇪🇹 Ethiopia, with a growing interest in **Machine Learning** and **Data Science**. I enjoy building scalable web applications and exploring the intersection of software engineering and AI.
 
-- 🔭 Currently working on **[BookStore](http://bookstore.com)** — a full-featured book management platform
+- 🔭 Currently working on **[devai-chat](https://github.com/Tekalig/devai-chat)** — an AI-powered chat project
 - 🌱 Actively learning **Machine Learning**, **Microservices**, **Django**, and **FastAPI**
 - 🤝 Open to collaborating on **school and open-source projects**
 - 📬 Reach me at **tekahazi06@gmail.com**
+
+---
+
+## Interactive About Me
+
+<details>
+  <summary><b>🚀 Click to see what I’m building right now</b></summary>
+  <br/>
+
+  - 💡 **Current Focus:** Building and improving **devai-chat**
+  - 🛠️ **What I’m doing:** Crafting an interactive AI chat experience
+  - 🎯 **Goal:** Deliver a fast, modern, and reliable developer assistant chat app
+  - 🤝 **Open to:** Feedback, ideas, and collaboration on devai-chat
+
+</details>
 
 ---
 
@@ -104,7 +119,7 @@ I'm a passionate **Full Stack Developer** based in 🇪🇹 Ethiopia, with a gro
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tekalig&theme=onedark&row=1&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tekalig&theme=onedark&row=1&column=6&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---
