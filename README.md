@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-tekalign--mesfin.netlify.app-0891b2?style=for-the-badge)](https://tekalign-mesfin.netlify.app/)
 [![Email](https://img.shields.io/badge/📬%20Email-tekahazi06@gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tekahazi06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tekalign-mesfin-122654240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tekalign-mesfin-486889348)
 [![Twitter](https://img.shields.io/badge/Twitter-@Mesfin16062-0891b2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/Mesfin16062)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tekalig&label=Profile+Views&color=0891b2&style=flat-square)](https://github.com/Tekalig)
@@ -101,7 +101,7 @@ I'm open to **freelance projects**, **full-time roles**, and **open-source colla
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tekalig-181717?style=for-the-badge&logo=github)](https://www.github.com/Tekalig)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tekalign-mesfin-122654240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tekalign-mesfin-486889348)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x)](https://www.x.com/Mesfin16062)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1042506246768562267)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tekalign-mesfin.netlify.app/)
